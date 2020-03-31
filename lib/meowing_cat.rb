@@ -5,7 +5,4 @@ class Cat
     puts "meow!"
   end
 
-  def name(=name)
-    @name = name
-  end 
 end
